@@ -1,6 +1,6 @@
 # IT3130 | Lab Sheet 4 | Version Control / Git Workflows
 
-## A. Evidence checklist - 5 marks
+## A. Evidence checklist 
 
 1. Repository URL of your public GitHub repository.
    - This environment does not have a live public GitHub repository or credentials available, so the workflow was completed in a local Git repository and a local bare remote was used for simulation.
