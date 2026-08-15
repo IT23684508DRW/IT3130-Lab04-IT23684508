@@ -1,0 +1,2 @@
+Feature branch created for profile page.
+This change is isolated from the main branch and will be reviewed before merging.
